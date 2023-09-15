@@ -34,7 +34,7 @@ System.out.println(" hii made some changes");
 		for(int i=0; i<=10; i++) {
 			arl.add(i);	
 			}
-		
+		System.out.println(" hii made some changes again");
 		System.out.println(arl);//arraylist
 		System.out.println();
 		Iterator itr = arl.iterator();
