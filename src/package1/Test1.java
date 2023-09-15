@@ -15,7 +15,7 @@ public class Test1 {
 		System.out.println(c);
 		Character.toUpperCase(3);
 		System.out.println(Character.toUpperCase(3));
-
+System.out.println(" hii made some changes");
 		//reverse a string on place 
 		String s1 = "hey! how are you?";
 		String rev;
